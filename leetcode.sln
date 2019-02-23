@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "leetcode 1-100", "leetcode\leetcode 1-100.pyproj", "{FAC5BFD1-0EC2-4491-9BF8-A11B7D411998}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "初级算法-数组", "初级算法\初级算法-数组.pyproj", "{BF5AB801-09C6-4031-83B2-15BA4CB91A9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FAC5BFD1-0EC2-4491-9BF8-A11B7D411998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FAC5BFD1-0EC2-4491-9BF8-A11B7D411998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5AB801-09C6-4031-83B2-15BA4CB91A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5AB801-09C6-4031-83B2-15BA4CB91A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

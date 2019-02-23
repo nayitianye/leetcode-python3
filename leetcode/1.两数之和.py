@@ -12,3 +12,6 @@ class Solution:
                if(nums[i]+nums[j]==target and i!=j):
                     s=[i,j]
                     return s
+
+s = Solution()
+s.twoSum([2, 7, 11, 15], 9)
