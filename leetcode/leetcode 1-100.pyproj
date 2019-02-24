@@ -5,7 +5,7 @@
     <ProjectGuid>fac5bfd1-0ec2-4491-9bf8-a11b7d411998</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>2.两数相加.py</StartupFile>
+    <StartupFile>1.两数之和.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

@@ -15,24 +15,15 @@
 #说明
 #尽可能想出更多的解决方案，至少有三种不同的方法可以解决这个问题。
 #要求使用空间复杂度为 O(1) 的原地算法。
+#type nums:List[int]
+#type k:int
+#rtype:nums:List[int]
 class Solution:
     def rotate(self, nums, k):
-        """
-        :type nums:List[int]
-        :type k:int
-        :rtype:nums:List[int]
-        """
         length=len(nums)
         i=0
         flag=0
         while i<length-1:
-            next=(flag+k)%length
-            num=nums[flag]
-            num[next]=nums[flag]
-            flag=next
-            i+=1
-        nums[]
-        return nums
 
 s=Solution()
 print(s.rotate([1,2,3,4,5,6,7],3))

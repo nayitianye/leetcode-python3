@@ -5,7 +5,7 @@
     <ProjectGuid>bf5ab801-09c6-4031-83b2-15ba4cb91a9e</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>2.旋转数组.py</StartupFile>
+    <StartupFile>8.移动零.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,10 +22,26 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="11.旋转图像.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="6.两数组的交集.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="7.加一.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="8.移动零.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="9.两数之和.py" />
     <Compile Include="1.从排序数组中删除重复项.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="2.旋转数组.py">
+    <Compile Include="3.旋转数组.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="5.只出现一次的数字.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
